@@ -37,6 +37,7 @@ com\portfolio\gm\Entity\Educacion.class
 com\portfolio\gm\Controller\CEducacion.class
 com\portfolio\gm\Dto\dtoExperiencia.class
 com\portfolio\gm\Controller\CHys.class
+com\portfolio\gm\WebConfig.class
 com\portfolio\gm\Security\Entity\UsuarioPrincipal.class
 com\portfolio\gm\Dto\dtoPersona.class
 com\portfolio\gm\Entity\Proyecto.class
